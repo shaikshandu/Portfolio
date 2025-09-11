@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Chatify"
               description="This project implements real-time object detection using the YOLO. The system uses a webcam to capture live video streams and detect multiple objects such as people, cars, bottles, chairs, and more, based on the COCO dataset"
-              ghLink="https://github.com/shaikshandu/Real-Time-Object-Detection-With-OpenCV/tree/main"
+              ghLink="https://github.com/shaikshandu/Real-Time-Object-Detection-With-OpenCV-master"
               
             />
           </Col>
