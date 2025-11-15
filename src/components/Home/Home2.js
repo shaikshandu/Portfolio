@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/photo1.jpg";
+import myImg from "../../Assets/image.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
