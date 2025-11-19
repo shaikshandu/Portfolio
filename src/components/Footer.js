@@ -68,3 +68,7 @@ function Footer() {
 }
 
 export default Footer;
+<footer>
+  © {year} My Portfolio
+</footer>
+
